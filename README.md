@@ -1,7 +1,7 @@
 # Linguistic_Technology
 LLM Multilingual comparative study on IMDB Movie reviews
 
-Welcome to our repository! We hope you find your visit interesting
+Welcome to our repository! We hope you find your visit interesting 😁😁😁
 
 This is an abstract of our work
 
@@ -9,3 +9,5 @@ This study evaluates the performance of Large Language Models (LLMs) for sentime
 
 Dataset
 dataset.csv contains 1001 randomly selected comments along with their groundtruth labels (positive or negative). Initial dataset link https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
+
