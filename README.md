@@ -13,7 +13,7 @@ dataset.csv contains 1001 randomly selected comments along with their groundtrut
 Here we present the radar charts of our findings.
 
 
-<img width="1200" height="1200" alt="zero_english" src="https://github.com/user-attachments/assets/b090450a-7809-48b5-87ea-50affef860f0" />
+<img width="600" height="600" alt="zero_english" src="https://github.com/user-attachments/assets/b090450a-7809-48b5-87ea-50affef860f0" />
 Figure 1: English in Zero Shot configuration.
 
 <img width="1200" height="1200" alt="zero_greek" src="https://github.com/user-attachments/assets/94747b70-b38c-4f3c-951f-84ca292fb24b" />
