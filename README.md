@@ -13,27 +13,27 @@ dataset.csv contains 1001 randomly selected comments along with their groundtrut
 Here we present the radar charts of our findings.
 
 Figure 1: English in Zero Shot configuration.
-<img width="600" height="600" alt="zero_english" src="https://github.com/user-attachments/assets/b090450a-7809-48b5-87ea-50affef860f0" />
+<img width="800" height="800" alt="zero_english" src="https://github.com/user-attachments/assets/b090450a-7809-48b5-87ea-50affef860f0" />
 
 
 Figure 2: Greek in Zero Shot configuration.
-<img width="600" height="600" alt="zero_greek" src="https://github.com/user-attachments/assets/94747b70-b38c-4f3c-951f-84ca292fb24b" />
+<img width="800" height="800" alt="zero_greek" src="https://github.com/user-attachments/assets/94747b70-b38c-4f3c-951f-84ca292fb24b" />
 
 
 Figure 3: Ukrainian in Zero Shot configuration.
-<img width="600" height="600" alt="zero_ukrainian" src="https://github.com/user-attachments/assets/b3a28fd1-f4b9-4f34-bfcc-e8b42612081d" />
+<img width="800" height="800" alt="zero_ukrainian" src="https://github.com/user-attachments/assets/b3a28fd1-f4b9-4f34-bfcc-e8b42612081d" />
 
 
 Figure 4: English in Few Shot configuration.
-<img width="600" height="600" alt="few_english" src="https://github.com/user-attachments/assets/74aaaefb-adef-47d1-a787-5418eee9c696" />
+<img width="800" height="800" alt="few_english" src="https://github.com/user-attachments/assets/74aaaefb-adef-47d1-a787-5418eee9c696" />
 
 
 Figure 5: Greek in Few Shot configuration.
-<img width="600" height="600" alt="few_greek" src="https://github.com/user-attachments/assets/1d2fb807-63de-45c1-b394-c1be6454efe6" />
+<img width="800" height="800" alt="few_greek" src="https://github.com/user-attachments/assets/1d2fb807-63de-45c1-b394-c1be6454efe6" />
 
 
 Figure 6: Ukrainian in Few Shot configuration.
-<img width="600" height="600" alt="few_ukrainian" src="https://github.com/user-attachments/assets/f90250fb-2556-434b-8c90-9ab6ba497601" />
+<img width="800" height="800" alt="few_ukrainian" src="https://github.com/user-attachments/assets/f90250fb-2556-434b-8c90-9ab6ba497601" />
 
 
 
